@@ -1,2 +1,2 @@
 startup_message off
-escape ^`a
+escape ^Wa
