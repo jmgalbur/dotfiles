@@ -9,3 +9,4 @@ hi NonText ctermbg=none
 
 set incsearch	" incremental search
 set hlsearch	" highlight search
+set wildmode=longest,list,full
